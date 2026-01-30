@@ -2,6 +2,8 @@
 
 - [**Click Here for the Lecture Videos (ATU Login Required)**](https://atlantictu-my.sharepoint.com/:f:/g/personal/ian_mcloughlin_atu_ie/IgDa2rrbGbCHTL6XFiVc8wvWAUipB04yFpY7Bs_6QDD9S_c?e=rE22ui)
 
+- [**Example Repository Used in Early Videos**](https://github.com/ianmcloughlin/example-repository)
+
 - [**Palmer Penguins Data Set for Python**](https://github.com/mcnakhaee/palmerpenguins)
 
 - [**Python for Data Analysis by Wes McKinney**](https://wesmckinney.com/book/)
