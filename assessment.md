@@ -11,8 +11,8 @@ You should then work consistently on your repository until the final deadline fo
 The last commit pushed to GitHub on or before the deadline will be assessed.
 
 > [!IMPORTANT]
-> [Submit Your Repository URL Here by 06 February 2026 (ATU Login required)](https://forms.cloud.microsoft/e/hGx0Qw330p)  
->   
+> [Submit Your Repository URL Here by 20 February 2026 (ATU Login required)](https://forms.cloud.microsoft/e/hGx0Qw330p)  
+> 
 > Final Deadline for Commits:  
 > <ins>**01 May 2026**</ins>  
 
@@ -122,7 +122,7 @@ Complete all problems below in your `problems.ipynb` notebook.
 
 Your notebook should tell a story, using Markdown cells to explain your thinking and code cells to perform the technical tasks.
 
-### Problem 1: Sourcing the Portal
+### Problem 1: Creating Your Repository
 
 On [github.com](https://github.com), create a new repository for this assessment.
 
