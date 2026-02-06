@@ -130,9 +130,9 @@ On [github.com](https://github.com), create a new repository for this assessment
 - Initialize: Select the option to Add a README file and select Python from the Add .gitignore dropdown menu.
 - Submission: Copy your repository URL (e.g., `https://github.com/username/reponame`) and submit it via the official module submission form above.
 
-### Problem 2: The README
+### Problem 2: The README.md
 
-Open your repository in Visual Studio Code (via GitHub Codespaces or a local clone).
+Open your repository in Visual Studio Code (or whatever way you prefer).
 Edit the `README.md` file to include:
 
 - A Level 1 heading with the project title.
@@ -141,11 +141,11 @@ Edit the `README.md` file to include:
 
 Save your changes, commit them with a meaningful message (e.g., Initialize README), and push/sync them to GitHub.
 
-### Problem 3: Ignoring
+### Problem 3: gitignore
 
-While GitHub provides a basic `.gitignore`, professional projects often require more detail to prevent trash files from entering the cloud.
+While GitHub provides a basic `.gitignore`, professional projects often require more detail to prevent temporary or other unnecessary files being added to your repository.
 
-- Go to [gitignore.io](https://www.toptal.com/developers/gitignore) and generate a comprehensive `.gitignore` file for Python, Visual Studio Code, and Jupyter Notebooks.
+- Go to [Toptal's gitignore.io website](https://www.toptal.com/developers/gitignore) and generate a comprehensive `.gitignore` file for Python, Visual Studio Code, and Jupyter Notebooks.
 - Replace the contents of the `.gitignore` in your repository with this generated text.
 
 Save, commit, and push these changes.
@@ -165,7 +165,7 @@ Save, commit, and push your notebook.
 For the remaining problems, you will use the Palmer Penguins dataset.
 
 - In your notebook, add a Level 2 heading for Problem 5.
-- Search for the raw URL of the `penguins.csv` file (e.g., from a reputable GitHub source) and use `pandas` to load it into a DataFrame.
+- Search for the raw URL of the `penguins.csv` file (e.g., from this repository or a reputable GitHub source) and use `pandas` to load it into a DataFrame.
 - Use the `describe()` method to calculate descriptive statistics for the numeric variables (bill length, bill depth, flipper length, and body mass).
 - In a Markdown cell, explain what information the `mean`, `std`, and `quartiles` (or `percentiles`) provide about the penguin populations.
 
